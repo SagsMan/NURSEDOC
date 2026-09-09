@@ -459,6 +459,19 @@
                             </div><!-- /.team-card-two__content -->
                         </div><!-- /.team-card-two -->
                     </div><!-- /.item -->
+                    <div class="item">
+                        <div class="team-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
+                            <div class="team-card-two__image">
+                                <img src="assets/images/team/priscilla-robeson.jpg" alt="Priscilla Robeson">
+                            </div><!-- /.team-card-two__image -->
+                            <div class="team-card-two__content">
+                                <h3 class="team-card-two__title">
+                                    <a href="priscilla-robeson-details.php">Priscilla Robeson</a>
+                                </h3><!-- /.team-card-two__title -->
+                                <p class="team-card-two__designation">Lead Health Educator &amp; Nursing Advisor</p><!-- /.team-card-two__designation -->
+                            </div><!-- /.team-card-two__content -->
+                        </div><!-- /.team-card-two -->
+                    </div><!-- /.item -->
 <div class="item">
 
                         <div class="team-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
