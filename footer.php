@@ -7,7 +7,7 @@
                  <div class="col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="00ms">
                      <div class="footer-widget footer-widget--about">
                          <a href="index.php" class="footer-widget__logo">
-                              <img src="assets/images/logo-light.png" width="185" alt="NurseDoc Connect">
+                              <img src="assets/images/nursedoc-connect-logo.png" width="185" alt="NurseDoc Connect">
                          </a>
                          <p class="footer-widget__text">
                               Patient-first healthcare access<br> beyond distance in Nigeria.<br> Care that keeps families connected.
@@ -115,7 +115,7 @@
          <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
          <div class="logo-box">
-             <a href="index.php" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt="" /></a>
+             <a href="index.php" aria-label="logo image"><img src="assets/images/nursedoc-connect-logo.png" width="155" alt="" /></a>
          </div>
          <!-- /.logo-box -->
          <div class="mobile-nav__container"></div>
