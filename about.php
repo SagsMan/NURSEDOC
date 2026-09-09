@@ -39,10 +39,10 @@
 
                                 <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Know About us<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                                <h3 class="sec-title__title bw-split-in-up">We Offer Expert Senior Care Services</h3><!-- /.sec-title__title -->
+                                <h3 class="sec-title__title bw-split-in-up">Healthcare access designed around Nigerian families</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <p class="about-two__content__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing do eiusmod tempor incididunt labore et dolore magna aliqua.
+                                NurseDoc Connect is a Nigeria-focused healthcare service helping patients and families access care beyond distance.
                             </p>
                             <div class="about-two__content__box" style="--accent-color: #c4eee4">
                                 <div class="about-two__content__box__icon">
@@ -52,7 +52,7 @@
                                     </span>
                                 </div>
                                 <h3 class="about-two__content__box__title">Strategies To Feel Better</h3>
-                                <p class="about-two__content__box__text">Lorem ipsum or lipsum as it is sometimes known</p>
+                                <p class="about-two__content__box__text">Patient-first access</p>
                             </div><!-- box -->
                             <div class="about-two__content__box" style="--accent-color: #f8ce75">
                                 <div class="about-two__content__box__icon">
@@ -62,11 +62,11 @@
                                     </span>
                                 </div>
                                 <h3 class="about-two__content__box__title">Complete Medical Suppyly</h3>
-                                <p class="about-two__content__box__text">Lorem ipsum or lipsum as it is sometimes known</p>
+                                <p class="about-two__content__box__text">Family-centred support</p>
                             </div><!-- box -->
                             <ul class="about-two__content__list">
-                                <li><span class="icon-check"></span>Lorem ipsum or lipsum as it is sometimes known</li>
-                                <li><span class="icon-check"></span>Professional gardening service for all your home</li>
+                                <li><span class="icon-check"></span>Care options that fit life in Nigeria</li>
+                                <li><span class="icon-check"></span>Practical support for care at home</li>
                             </ul>
                             <a href="about.php" class="careold-btn"><i>Learn More</i><span>Learn More</span></a>
                         </div><!-- /.why-choose-two__content -->
@@ -89,7 +89,7 @@
                                 </span>
                             </div><!-- /.feature-two__item__icon -->
                             <h3 class="feature-two__item__title">Guidance You <br>Can Trust</h3>
-                            <p class="feature-two__item__text">Lorem ipsum dolor sit amet gravida risus commodo viverra</p>
+                            <p class="feature-two__item__text">Connect with licensed professionals by call or video when travel is difficult.</p>
                         </div><!-- feature-item -->
                     </div><!-- item -->
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
@@ -100,8 +100,8 @@
                                     <i class="icon-care"></i>
                                 </span>
                             </div><!-- /.feature-two__item__icon -->
-                            <h3 class="feature-two__item__title">We are <br>Virtus Care</h3>
-                            <p class="feature-two__item__text">Lorem ipsum dolor sit amet gravida risus commodo viverra</p>
+                            <h3 class="feature-two__item__title">We are <br>NurseDoc Connect</h3>
+                            <p class="feature-two__item__text">Arrange doctor or nurse home visits anywhere in Nigeria, subject to availability.</p>
                         </div><!-- feature-item -->
                     </div><!-- item -->
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
@@ -113,7 +113,7 @@
                                 </span>
                             </div><!-- /.feature-two__item__icon -->
                             <h3 class="feature-two__item__title">Support You Can<br> Reply On</h3>
-                            <p class="feature-two__item__text">Lorem ipsum dolor sit amet gravida risus commodo viverra</p>
+                            <p class="feature-two__item__text">Keep relatives involved in practical care decisions, wherever they live.</p>
                         </div><!-- feature-item -->
                     </div><!-- item -->
                 </div>
@@ -132,10 +132,10 @@
 
                             <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Why choose us<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                            <h3 class="sec-title__title bw-split-in-up">We Think We Can Preserve More Lives</h3><!-- /.sec-title__title -->
+                            <h3 class="sec-title__title bw-split-in-up">We help families access care with confidence</h3><!-- /.sec-title__title -->
                         </div><!-- /.sec-title -->
                         <p class="why-choose-one__text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing do eiusmod tempor incididunt labore et dolore magna.
+                            Our team makes healthcare easier to reach with warm guidance, practical coordination and clear communication.
                         </p><!-- /.why-choose-one__content -->
                     </div><!-- /.col-lg-5 -->
                     <div class="col-xl-7 wow fadeInUp" data-wow-delay="100ms">
@@ -157,7 +157,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">Emotional Support</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Warm, respectful conversations</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="250ms">
@@ -169,7 +169,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">More value</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Practical options for families</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
@@ -181,7 +181,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">More Support</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Support beyond distance</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="350ms">
@@ -193,7 +193,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">More Control</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Care centred on your family</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                 </div><!-- /.row -->
@@ -207,7 +207,7 @@
 
                     <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Our Testimonials<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                    <h3 class="sec-title__title bw-split-in-up">See Why 1,264 People Last <br>Year Choose Careold</h3><!-- /.sec-title__title -->
+                    <h3 class="sec-title__title bw-split-in-up">A clearer way to arrange care in Nigeria</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
             </div>
             <div class="testimonials-two__container container">
@@ -249,7 +249,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Alen Martin
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-1.jpg" alt="Alen Martin">
                             </div><!-- /.testimonials-card-two__image -->
@@ -275,7 +275,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Hena Wiano
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-2.jpg" alt="Hena Wiano">
                             </div><!-- /.testimonials-card-two__image -->
@@ -301,7 +301,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Alen Martin
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-1.jpg" alt="Alen Martin">
                             </div><!-- /.testimonials-card-two__image -->
@@ -327,7 +327,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Hena Wiano
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-2.jpg" alt="Hena Wiano">
                             </div><!-- /.testimonials-card-two__image -->
@@ -353,7 +353,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Alen Martin
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-1.jpg" alt="Alen Martin">
                             </div><!-- /.testimonials-card-two__image -->
@@ -379,7 +379,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Hena Wiano
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-2.jpg" alt="Hena Wiano">
                             </div><!-- /.testimonials-card-two__image -->
@@ -462,7 +462,7 @@
                                 <h3 class="team-card-two__title">
                                     <a href="team-details.php">Naomi Hannah</a>
                                 </h3><!-- /.team-card-two__title -->
-                                <p class="team-card-two__designation">Senior Care Doctor</p><!-- /.team-card-two__designation -->
+                                <p class="team-card-two__designation">Licensed healthcare professional</p><!-- /.team-card-two__designation -->
                             </div><!-- /.team-card-two__content -->
                         </div><!-- /.team-card-two -->
                     </div><!-- /.item -->
@@ -577,10 +577,9 @@
                     <div class="cta-one__inner__shape-three"></div>
                     <h3 class="cta-one__title">Help Us Help Others</h3><!-- /.cta-one__title -->
                     <p class="cta-one__text">
-                        Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-                        Please donate today to help us save, support, and change lives
+                        Talk with NurseDoc Connect about practical ways to support a patient or loved one.
                     </p>
-                    <a href="contact.php" class="careold-btn"><i>Donate Today</i><span>Donate Today</span></a>
+                    <a href="contact.php" class="careold-btn"><i>Talk to NurseDoc</i><span>Talk to NurseDoc</span></a>
                 </div><!-- /.cta-one__inner -->
             </div><!-- /.container -->
         </section><!-- /.cta-one -->

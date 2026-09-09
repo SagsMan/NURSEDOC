@@ -6,7 +6,7 @@
             <div class="page-header__shape"></div>
             <!-- /.page-header__shape -->
             <div class="container">
-                <h2 class="page-header__title bw-split-in-right">Home Aged Care</h2>
+                <h2 class="page-header__title bw-split-in-right">Home Care</h2>
                 <ul class="careold-breadcrumb list-unstyled">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="services.php">Services</a></li>
@@ -38,7 +38,7 @@
                                         <img src="assets/images/resources/service-author.jpg" alt="careold">
                                     </div>
                                     <h3 class="service-sidebar__contact__title">Need Help Get <br>In Touch Quickly</h3><!-- /.service-sidebar__contact__title -->
-                                    <a href="contact.php" class="careold-btn"><i>Get A Quote</i><span>Get A Quote</span></a>
+                                    <a href="contact.php" class="careold-btn"><i>Arrange home care</i><span>Arrange home care</span></a>
                                 </div><!-- /.service-sidebar__contact -->
                             </div>
                         </div><!-- /.sidebar -->
@@ -48,14 +48,14 @@
                             <div class="service-details__thumbnail">
                                 <img src="assets/images/resources/service-d-6.jpg" alt="Home Aged Care">
                             </div><!-- /.service-details__thumbnail -->
-                            <h3 class="service-details__title">Home Aged Care</h3><!-- /.service-details__title -->
+                            <h3 class="service-details__title">Home Care</h3><!-- /.service-details__title -->
                             <p class="service-details__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius
+                                Home care from NurseDoc Connect brings patient-first support closer to families across Nigeria.
+                                We help families arrange practical support at home, wherever they are in Nigeria.
                                 modi tempora incidunt ut labore.
                             </p>
                             <!-- /.service-details__text -->
-                            <h4 class="service-details__sub-title">Health & Complex Zare At Home</h4><!-- /.service-details__sub-title -->
+                            <h4 class="service-details__sub-title">Care where you are in Nigeria</h4><!-- /.service-details__sub-title -->
                             <p class="service-details__text">
                                 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos
                                 dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi.
@@ -69,8 +69,8 @@
                                                 <i class=" icon-blood-drop"></i>
                                             </span>
                                         </div><!-- /.service-details__item__icon -->
-                                        <h4 class="service-details__item__title">Diabetes Monitoring</h4><!-- /.service-details__item__title -->
-                                        <p class="service-details__item__text">We provide diabetes monitoring support from the comfort of your home.</p><!-- /.service-details__item__text -->
+                                        <h4 class="service-details__item__title">Home visits</h4><!-- /.service-details__item__title -->
+                                        <p class="service-details__item__text">Arrange a doctor or nurse home visit anywhere in Nigeria, subject to availability.</p><!-- /.service-details__item__text -->
                                     </div><!-- /.service-details__item__item -->
                                 </div><!-- /.col-lg-6 -->
                                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
@@ -81,8 +81,8 @@
                                                 <i class=" icon-bandage"></i>
                                             </span>
                                         </div><!-- /.service-details__item__icon -->
-                                        <h4 class="service-details__item__title">Simple Wound Care</h4><!-- /.service-details__item__title -->
-                                        <p class="service-details__item__text">Our Care Professionals are trained to provide you with professional wound care in the familiar</p><!-- /.service-details__item__text -->
+                                        <h4 class="service-details__item__title">Family coordination</h4><!-- /.service-details__item__title -->
+                                        <p class="service-details__item__text">A practical way to organise support for a loved one, even when you live elsewhere.</p><!-- /.service-details__item__text -->
                                     </div><!-- /.service-details__item__item -->
                                 </div><!-- /.col-lg-6 -->
                             </div>
@@ -94,9 +94,9 @@
                                 </div>
                                 <div class="col-lg-7">
                                     <div class="service-details__support">
-                                        <h4 class="service-details__sub-title">Advice & Support</h4><!-- /.service-details__sub-title -->
+                            <h4 class="service-details__sub-title">Comfort and continuity at home</h4><!-- /.service-details__sub-title -->
                                         <p class="service-details__text">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam
+                                            From arranging a visit to keeping relatives informed, we help make care at home easier to organise.
                                         </p><!-- /.service-details__text -->
                                         <ul class="list-unstyled service-details__list">
                                             <li><i class="fas fa-check"></i>Specialist Care</li>
@@ -110,7 +110,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <h4 class="service-details__sub-title">Safer. Happier. Less expensive.</h4><!-- /.service-details__sub-title -->
+                            <h4 class="service-details__sub-title">Practical care, closer to home</h4><!-- /.service-details__sub-title -->
                             <div class="service-details__accordion careold-accrodion" data-grp-name="careold-accrodion">
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
@@ -122,8 +122,7 @@
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Lorem ipsum dolor sit amet consectetur adipiscing elit. Site has the ability to reduce churn rate
-                                                and create more conversions consisting of both new and returning users.
+                                                We keep communication clear so families can make confident, informed arrangements.
                                             </p>
                                         </div><!-- /.accordian-content -->
                                     </div>
@@ -138,8 +137,7 @@
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Lorem ipsum dolor sit amet consectetur adipiscing elit. Site has the ability to reduce churn rate
-                                                and create more conversions consisting of both new and returning users.
+                                                Support can be reviewed as circumstances and routines change.
                                             </p>
                                         </div><!-- /.accordian-content -->
                                     </div>
@@ -154,8 +152,7 @@
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Lorem ipsum dolor sit amet consectetur adipiscing elit. Site has the ability to reduce churn rate
-                                                and create more conversions consisting of both new and returning users.
+                                                Your family remains at the centre of every care conversation.
                                             </p>
                                         </div><!-- /.accordian-content -->
                                     </div>
@@ -170,12 +167,11 @@
                     <div class="cta-one__inner__shape-one"></div>
                     <div class="cta-one__inner__shape-two"></div>
                     <div class="cta-one__inner__shape-three"></div>
-                    <h3 class="cta-one__title">Help Us Help Others</h3><!-- /.cta-one__title -->
+                    <h3 class="cta-one__title">Arrange home care in Nigeria</h3><!-- /.cta-one__title -->
                     <p class="cta-one__text">
-                        Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-                        Please donate today to help us save, support, and change lives
+                        Share what your family needs and our team will help you understand the available care options.
                     </p>
-                    <a href="contact.php" class="careold-btn"><i>Donate Today</i><span>Donate Today</span></a>
+                    <a href="contact.php" class="careold-btn"><i>Start a care conversation</i><span>Start a care conversation</span></a>
                 </div><!-- /.cta-one__inner -->
             </div><!-- /.container -->
         </section><!-- /.service-details -->

@@ -30,7 +30,7 @@
                                 <a href="service-d-companion.php">Companion Care</a>
                             </h3><!-- /.service-title -->
                             <p class="service-two__item__text">
-                                Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                Friendly, practical care arranged around your family’s needs in Nigeria.
                             </p>
                             <a href="service-d-companion.php" class="service-two__item__link">
                                 Learn More
@@ -49,7 +49,7 @@
                                 <a href="service-d-personalized.php">Personalized Care</a>
                             </h3><!-- /.service-title -->
                             <p class="service-two__item__text">
-                                Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                Compassionate support at home, with family communication kept in view.
                             </p>
                             <a href="service-d-personalized.php" class="service-two__item__link">
                                 Learn More
@@ -68,7 +68,7 @@
                                 <a href="service-d-disability.php">Disability Housing</a>
                             </h3><!-- /.service-title -->
                             <p class="service-two__item__text">
-                                Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                Access licensed professionals through consultations and coordinated visits.
                             </p>
                             <a href="service-d-disability.php" class="service-two__item__link">
                                 Learn More
@@ -87,7 +87,7 @@
                                 <a href="service-d-nursing.php">Nursing Care</a>
                             </h3><!-- /.service-title -->
                             <p class="service-two__item__text">
-                                Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                Respectful support that helps people live with greater comfort and choice.
                             </p>
                             <a href="service-d-nursing.php" class="service-two__item__link">
                                 Learn More
@@ -106,7 +106,7 @@
                                 <a href="service-d-medical.php">Medical Checkup</a>
                             </h3><!-- /.service-title -->
                             <p class="service-two__item__text">
-                                Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                A reassuring presence and practical help for daily routines.
                             </p>
                             <a href="service-d-medical.php" class="service-two__item__link">
                                 Learn More
@@ -125,7 +125,7 @@
                                 <a href="service-d-home.php">Home Aged Care</a>
                             </h3><!-- /.service-title -->
                             <p class="service-two__item__text">
-                                Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                Care planning shaped around your circumstances, preferences and location.
                             </p>
                             <a href="service-d-home.php" class="service-two__item__link">
                                 Learn More

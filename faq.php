@@ -21,7 +21,7 @@
                     <div class="col-lg-8">
                         <h3 class="faq-page__title sec-title__title bw-split-in-up">Questions & Answers</h3>
                         <p class="faq-page__text">
-                            There are many variations of passages of lorem Ipsum available but the majority have suffered alteration in some form by injected humour.
+                            Find clear answers about NurseDoc Connect consultations, home visits and family care arrangements across Nigeria.
                         </p>
                     </div><!-- /.col-lg-8 -->
                     <div class="col-lg-4">

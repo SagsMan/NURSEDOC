@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home || NurseDoc || Care & Medical</title>
+    <title>NurseDoc Connect | Healthcare access across Nigeria</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="NurseDoc Website" />
+    <meta name="description" content="NurseDoc Connect helps patients and families access trusted healthcare across Nigeria, including virtual consultations, nurse support and home visits." />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -61,11 +61,11 @@
                         </li>
                     </ul><!-- /.list-unstyled topbar-one__info -->
                     <div class="topbar-one__right">
-                        <p class="topbar-one__text"><i class="fas fa-phone-square-alt topbar-one__text__icon"></i>Open: Mon-Sat: 08.00am - 06.00pm</p><!-- /.topbar-one__text -->
+                        <p class="topbar-one__text"><i class="fas fa-phone-square-alt topbar-one__text__icon"></i>Healthcare access for families, wherever they are in Nigeria</p><!-- /.topbar-one__text -->
                         <ul class="list-unstyled topbar-one__links">
                             <li><a href="contact.php">Support</a></li>
-                            <li><a href="about.php">Career</a></li>
-                            <li><a href="contact.php">Office</a></li>
+                            <li><a href="about.php">Our approach</a></li>
+                            <li><a href="contact.php">Get support</a></li>
                         </ul>
                         <div class="topbar-one__social">
                             <a href="https://whatsapp.com/">
@@ -99,7 +99,7 @@
                 <div class="main-header__inner">
                     <div class="main-header__logo">
                         <a href="index.php">
-                            <img src="assets/images/logo-light.png" alt="Careold HTML" width="185">
+                            <img src="assets/images/logo-light.png" alt="NurseDoc Connect" width="185">
                         </a>
                     </div><!-- /.main-header__logo -->
                     <nav class="main-header__nav main-menu">
@@ -108,8 +108,8 @@
                             <li class="dropdown">
                                 <a href="index.php">Home</a>
                                 <ul>
-                                    <li><a href="login.php">User Login</a></li>
-                                    <li><a href="login.php">Administrative Login</a></li>
+                                    <li><a href="login.php">Patient login</a></li>
+                                    <li><a href="login.php">Care team login</a></li>
 
                                 </ul>
                             </li>
@@ -120,14 +120,14 @@
                                 <a href="about.php">About</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Team</a>
+                                <a href="#">Care team</a>
                                 <ul>
                                     <li>
-                                    <li><a href="team-details.php">Our Team Details</a></li>
+                                    <li><a href="team-details.php">Meet our care team</a></li>
                                     <li> <a href="portfolio-details.php">Our Portfolio</a> </li>
 
                             </li>
-                            <li><a href="404.php">404 Error</a></li>
+                                <li><a href="404.php">Help centre</a></li>
                         </ul>
                         </li>
                         <li class="dropdown">
@@ -136,10 +136,10 @@
                                 <li><a href="services.php">Services</a></li>
                                 <li><a href="service-d-companion.php">Companion Care</a></li>
                                 <li><a href="service-d-personalized.php">Personalized Care</a></li>
-                                <li><a href="service-d-disability.php">Disability Housing</a></li>
+                                    <li><a href="service-d-disability.php">Disability support</a></li>
                                 <li><a href="service-d-nursing.php">Nursing Care</a></li>
-                                <li><a href="service-d-medical.php">Medical Checkup</a></li>
-                                <li><a href="service-d-home.php">Home Aged Care</a></li>
+                                    <li><a href="service-d-medical.php">Medical care</a></li>
+                                    <li><a href="service-d-home.php">Home care</a></li>
                             </ul>
                         </li>
 
@@ -150,9 +150,9 @@
                                 <li class="dropdown">
                                     <a href="#">News Gallery</a>
                                     <ul class="sub-menu">
-                                        <li><a href="blog-details.php">Our Blog</a></li>
-                                        <li><a href="gallery.php">Our Gallery</a></li>
-                                        <li><a href="reviews.php">Our Testimonies</a></li>
+                                        <li><a href="blog-details.php">Health resources</a></li>
+                                        <li><a href="gallery.php">Care in practice</a></li>
+                                        <li><a href="reviews.php">Family stories</a></li>
 
                                     </ul>
                                 </li>
@@ -166,7 +166,7 @@
 
                             <ul>
 
-                                <li><a href="contact.php">Contat Us</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="faq.php">FAQs</a></li>
 
                             </ul>
@@ -187,7 +187,7 @@
                                     <i class="icon-phone"></i>
                                 </span>
                             </div>
-                            <a href="tel:+234............">+234............</a>
+                            <a href="tel:+234............">Speak with NurseDoc</a>
                         </div>
                         <a href="cart.php" class="main-header__cart">
                             <i class="fas fa-shopping-cart" aria-hidden="true"></i>
@@ -196,7 +196,7 @@
                         </a><!-- /.search-toggler -->
                         <div class="main-header__btn">
                             <a href="contact.php" class="careold-btn">
-                                <i>Get A Quote</i><span>Get A Quote</span>
+                                <i>Arrange care</i><span>Arrange care</span>
                             </a><!-- /.thm-btn main-header__btn -->
                         </div>
                     </div><!-- /.main-header__right -->

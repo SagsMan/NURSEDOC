@@ -82,11 +82,11 @@
                     <h3 class="portfolio-details__title">Domiciliary Care At Home</h3>
                     <h4 class="portfolio-details__sub-title">Project Overview</h4>
                     <p class="portfolio-details__text">
-                        Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        NurseDoc Connect helps families arrange practical healthcare support across Nigeria, beyond distance.
                         Diam enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
                     </p>
                     <p class="portfolio-details__text">
-                        There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour or
+                        NurseDoc Connect brings together practical healthcare access and family-centred support for people across Nigeria.
                         randomised words which don't look even slightly believable. Egestas dictum lectus diam commodo. Marketing tristique nunc faucibus sit tortor
                         commodo aliquet commodo quam. Id suspendisse vel in non arcu, interdum quis placerat accumsan varius
                     </p>
@@ -103,7 +103,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="portfolio-details__content__right">
-                                <h4 class="portfolio-details__sub-title">We Take Care Senior</h4>
+                                <h4 class="portfolio-details__sub-title">We help families arrange care</h4>
                                 <p class="portfolio-details__text">
                                     Home visits from a Home Instead Care Professional can help you to enjoy an independent and fulfilled life,
                                     living well at home, your way. Enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
@@ -134,10 +134,10 @@
                     <div class="cta-one__inner__shape-three"></div>
                     <h3 class="cta-one__title">Help Us Help Others</h3><!-- /.cta-one__title -->
                     <p class="cta-one__text">
-                        Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-                        Please donate today to help us save, support, and change lives
+                        Contact NurseDoc Connect to discuss your family’s care needs and next steps.
+                        Talk with NurseDoc Connect about practical ways to support a patient or loved one.
                     </p>
-                    <a href="contact.php" class="careold-btn"><i>Donate Today</i><span>Donate Today</span></a>
+                    <a href="contact.php" class="careold-btn"><i>Talk to NurseDoc</i><span>Talk to NurseDoc</span></a>
                 </div><!-- /.cta-one__inner -->
             </div><!-- /.container -->
         </section>

@@ -108,7 +108,7 @@
                                 </span>
                             </div><!-- /.feature-one__item__icon -->
                             <h3 class="feature-one__item__title">Guidance You <br>Can Trust</h3>
-                            <p class="feature-one__item__text">Lorem ipsum dolor sit amet gravida risus commodo viverra</p>
+                            <p class="feature-one__item__text">Call or video consultations make healthcare easier to reach across Nigeria.</p>
                         </div><!-- feature-item -->
                     </div><!-- item -->
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
@@ -119,8 +119,8 @@
                                     <i class="icon-care"></i>
                                 </span>
                             </div><!-- /.feature-one__item__icon -->
-                            <h3 class="feature-one__item__title">We are <br>Virtus Care</h3>
-                            <p class="feature-one__item__text">Lorem ipsum dolor sit amet gravida risus commodo viverra</p>
+                            <h3 class="feature-one__item__title">We are <br>NurseDoc Connect</h3>
+                            <p class="feature-one__item__text">24/7 nurse support helps families understand practical next steps.</p>
                         </div><!-- feature-item -->
                     </div><!-- item -->
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
@@ -132,7 +132,7 @@
                                 </span>
                             </div><!-- /.feature-one__item__icon -->
                             <h3 class="feature-one__item__title">Support You Can<br> Reply On</h3>
-                            <p class="feature-one__item__text">Lorem ipsum dolor sit amet gravida risus commodo viverra</p>
+                            <p class="feature-one__item__text">Arrange doctor or nurse home visits wherever you are in Nigeria.</p>
                         </div><!-- feature-item -->
                     </div><!-- item -->
                 </div>
@@ -170,10 +170,10 @@
 
                                 <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Know About us<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                                <h3 class="sec-title__title bw-split-in-up">We Offer Expert Senior Care Services</h3><!-- /.sec-title__title -->
+                                <h3 class="sec-title__title bw-split-in-up">Healthcare access designed around Nigerian families</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <p class="about-one__content__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing do eiusmod tempor incididunt labore et dolore magna aliqua.
+                                NurseDoc Connect puts patients and families first, helping them access trusted care beyond distance in Nigeria.
                             </p>
                             <div class="about-one__content__box" style="--accent-color: #c4eee4">
                                 <div class="about-one__content__box__icon">
@@ -183,7 +183,7 @@
                                     </span>
                                 </div>
                                 <h3 class="about-one__content__box__title">Strategies To Feel Better</h3>
-                                <p class="about-one__content__box__text">Lorem ipsum or lipsum as it is sometimes known</p>
+                                <p class="about-one__content__box__text">Clear care options</p>
                             </div><!-- box -->
                             <div class="about-one__content__box" style="--accent-color: #f8ce75">
                                 <div class="about-one__content__box__icon">
@@ -193,10 +193,10 @@
                                     </span>
                                 </div>
                                 <h3 class="about-one__content__box__title">Complete Medical Suppyly</h3>
-                                <p class="about-one__content__box__text">Lorem ipsum or lipsum as it is sometimes known</p>
+                                <p class="about-one__content__box__text">Family-centred guidance</p>
                             </div><!-- box -->
                             <ul class="about-one__content__list">
-                                <li><span class="icon-check"></span>Lorem ipsum or lipsum as it is sometimes known</li>
+                                <li><span class="icon-check"></span>Support that reaches beyond distance</li>
                                 <li><span class="icon-check"></span>Professional gardening service for all your home</li>
                             </ul>
                             <a href="about.php" class="careold-btn"><i>Learn More</i><span>Learn More</span></a>
@@ -228,7 +228,7 @@
                                     <a href="service-d-companion.php">Companion Care</a>
                                 </h3><!-- /.service-title -->
                                 <p class="service-one__item__text">
-                                    Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                    Practical home care for patients and relatives arranging support.
                                 </p>
                                 <a href="service-d-companion.php" class="service-one__item__link">
                                     <span class="service-one__item__link__icon"><i class="icon-up-right-arrow"></i></span>
@@ -248,7 +248,7 @@
                                     <a href="service-d-personalized.php">Personalized Care</a>
                                 </h3><!-- /.service-title -->
                                 <p class="service-one__item__text">
-                                    Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                    Compassionate nursing care with clear family communication.
                                 </p>
                                 <a href="service-d-personalized.php" class="service-one__item__link">
                                     <span class="service-one__item__link__icon"><i class="icon-up-right-arrow"></i></span>
@@ -268,7 +268,7 @@
                                     <a href="service-d-home.php">Home Aged Care</a>
                                 </h3><!-- /.service-title -->
                                 <p class="service-one__item__text">
-                                    Lorem ipsum dolor sit amet lorem etur adipiscing elit sed do eiusmod
+                                    Licensed professionals for consultations and coordinated visits.
                                 </p>
                                 <a href="service-d-home.php" class="service-one__item__link">
                                     <span class="service-one__item__link__icon"><i class="icon-up-right-arrow"></i></span>
@@ -290,10 +290,10 @@
 
                             <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Why choose us<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                            <h3 class="sec-title__title bw-split-in-up">We Think We Can Preserve More Lives</h3><!-- /.sec-title__title -->
+                            <h3 class="sec-title__title bw-split-in-up">We help families access care with confidence</h3><!-- /.sec-title__title -->
                         </div><!-- /.sec-title -->
                         <p class="why-choose-one__text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing do eiusmod tempor incididunt labore et dolore magna.
+                            We connect families with practical healthcare support, wherever they are in Nigeria.
                         </p><!-- /.why-choose-one__content -->
                     </div><!-- /.col-lg-5 -->
                     <div class="col-xl-7 wow fadeInUp" data-wow-delay="100ms">
@@ -315,7 +315,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">Emotional Support</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Warm, reassuring guidance</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="250ms">
@@ -327,7 +327,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">More value</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Practical care coordination</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
@@ -339,7 +339,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">More Support</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Support for patients and families</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="350ms">
@@ -351,7 +351,7 @@
                                 </span>
                             </div><!-- /.why-choose-one__item__icon -->
                             <h4 class="why-choose-one__item__title">More Control</h4><!-- /.why-choose-one__item__title -->
-                            <p class="why-choose-one__item__text">Various versions have evolved over the years, sometimes</p><!-- /.why-choose-one__item__text -->
+                            <p class="why-choose-one__item__text">Care beyond distance</p><!-- /.why-choose-one__item__text -->
                         </div><!-- /.why-choose-one__item__item -->
                     </div><!-- col-lg-3 col-md-6 -->
                 </div><!-- /.row -->
@@ -488,7 +488,7 @@
                             </div><!-- /.work-process-icon -->
                             <h4 class="work-process-one__item__title">Speak To A Care<br> Advisor</h4><!-- /.work-process-title -->
                             <p class="work-process-one__item__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec ullamcorper mattis
+                                NurseDoc Connect helps families make informed care arrangements with confidence.
                             </p><!-- /.work-process-text -->
                             <div class="work-process-one__item__number"></div><!-- /.work-process-number -->
                         </div><!-- /.work-process-item -->
@@ -502,7 +502,7 @@
                             </div><!-- /.work-process-icon -->
                             <h4 class="work-process-one__item__title">Start Your Carer<br> Search</h4><!-- /.work-process-title -->
                             <p class="work-process-one__item__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec ullamcorper mattis
+                                Our service is designed around real family needs and clear communication.
                             </p><!-- /.work-process-text -->
                             <div class="work-process-one__item__number"></div><!-- /.work-process-number -->
                         </div><!-- /.work-process-item -->
@@ -516,7 +516,7 @@
                             </div><!-- /.work-process-icon -->
                             <h4 class="work-process-one__item__title">Your Trial Period<br> Begins</h4><!-- /.work-process-title -->
                             <p class="work-process-one__item__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec ullamcorper mattis
+                                From virtual consultations to home visits, support starts with a conversation.
                             </p><!-- /.work-process-text -->
                             <div class="work-process-one__item__number"></div><!-- /.work-process-number -->
                         </div><!-- /.work-process-item -->
@@ -533,7 +533,7 @@
 
                     <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Our Testimonials<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                    <h3 class="sec-title__title bw-split-in-up">See Why 1,264 People Last <br>Year Choose Careold</h3><!-- /.sec-title__title -->
+                    <h3 class="sec-title__title bw-split-in-up">Families choose a clearer way to arrange care</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
             </div>
             <div class="testimonials-one__container container">
@@ -571,9 +571,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alen Martin
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    NurseDoc Connect helped our family understand care options and organise support with confidence.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -598,9 +598,9 @@
                                 <h3 class="testimonials-card__name">
                                     Hena Wiano
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    It was reassuring to have a clear conversation about care for our loved one in Nigeria.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -625,9 +625,9 @@
                                 <h3 class="testimonials-card__name">
                                     Keli Wiliam
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    The team helped us stay connected while arranging support from elsewhere.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -652,9 +652,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alice Genesis
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    We appreciated the warm, practical guidance throughout our care conversation.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -679,9 +679,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alen Martin
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    NurseDoc made it easier to understand what support our family could explore.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -706,9 +706,9 @@
                                 <h3 class="testimonials-card__name">
                                     Hena Wiano
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    The service gave our family a straightforward place to begin arranging care.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -733,9 +733,9 @@
                                 <h3 class="testimonials-card__name">
                                     Keli Wiliam
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    We felt listened to while discussing support for a loved one.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -760,9 +760,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alice Genesis
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    Clear communication made the care planning process easier for our family.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -818,7 +818,7 @@
                                 <h3 class="team-card__title">
                                     <a href="team-details.php">Naomi Hannah</a>
                                 </h3><!-- /.team-card__title -->
-                                <p class="team-card__designation">Senior Care Doctor</p><!-- /.team-card__designation -->
+                                <p class="team-card__designation">Licensed healthcare professional</p><!-- /.team-card__designation -->
                                 <div class="team-card__hover">
                                     <span class="team-card__hover__btn"><i class="icon-plus"></i></span>
                                     <div class="team-card__hover__social">
@@ -890,7 +890,7 @@
                                 <h3 class="team-card__title">
                                     <a href="team-details.php">Emilia Zoey</a>
                                 </h3><!-- /.team-card__title -->
-                                <p class="team-card__designation">Senior Care Doctor</p><!-- /.team-card__designation -->
+                                <p class="team-card__designation">Licensed healthcare professional</p><!-- /.team-card__designation -->
                                 <div class="team-card__hover">
                                     <span class="team-card__hover__btn"><i class="icon-plus"></i></span>
                                     <div class="team-card__hover__social">
@@ -980,9 +980,9 @@
                         <div class="blog-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='100ms'>
                             <div class="blog-card__image">
                                 <div class="blog-card__image__inner">
-                                    <img src="assets/images/blog/blog-1-2.jpg" alt="We Can Aenean Poor leo Nec This Blog.">
-                                    <img src="assets/images/blog/blog-1-2.jpg" alt="We Can Aenean Poor leo Nec This Blog.">
-                                    <a href="blog-details-right.php" class="blog-card__image__link"><span class="sr-only">We Can Aenean Poor leo Nec This Blog.</span></a>
+                                    <img src="assets/images/blog/blog-1-2.jpg" alt="Practical guidance for arranging care">
+                                    <img src="assets/images/blog/blog-1-2.jpg" alt="Practical guidance for arranging care">
+                                    <a href="blog-details-right.php" class="blog-card__image__link"><span class="sr-only">Practical guidance for arranging care</span></a>
                                 </div>
                                 <div class="blog-card__cate"><a href="blog-list-right.php">Wellness</a></div><!-- /.blog-card__cate -->
                                 <div class="blog-card__date"><span>02</span>Dec</div><!-- /.blog-card__date -->
@@ -992,7 +992,7 @@
                                     <li><i class="fas fa-user"></i>by <a href="blog-list-right.php">Martin</a></li>
                                     <li><i class="fas fa-comment"></i>05 Comments</li>
                                 </ul><!-- /.list-unstyled blog-card__meta -->
-                                <h3 class="blog-card__title"><a href="blog-details-right.php">We Can Aenean Poor leo Nec This Blog.</a></h3><!-- /.blog-card__title -->
+                                <h3 class="blog-card__title"><a href="blog-details-right.php">Practical guidance for arranging care</a></h3><!-- /.blog-card__title -->
                                 <a href="blog-details-right.php" class="blog-card__link">
                                     <span class="blog-card__link__icon"><i class="icon-up-right-arrow"></i></span>
                                     Learn More
@@ -1004,9 +1004,9 @@
                         <div class="blog-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
                             <div class="blog-card__image">
                                 <div class="blog-card__image__inner">
-                                    <img src="assets/images/blog/blog-1-3.jpg" alt="Aenean Sollicitudin Ieo Nunc, Ornare This Blog.">
-                                    <img src="assets/images/blog/blog-1-3.jpg" alt="Aenean Sollicitudin Ieo Nunc, Ornare This Blog.">
-                                    <a href="blog-details-right.php" class="blog-card__image__link"><span class="sr-only">Aenean Sollicitudin Ieo Nunc, Ornare This Blog.</span></a>
+                                    <img src="assets/images/blog/blog-1-3.jpg" alt="Supporting a loved one from afar">
+                                    <img src="assets/images/blog/blog-1-3.jpg" alt="Supporting a loved one from afar">
+                                    <a href="blog-details-right.php" class="blog-card__image__link"><span class="sr-only">Supporting a loved one from afar</span></a>
                                 </div>
                                 <div class="blog-card__cate"><a href="blog-list-right.php">Nursing </a></div><!-- /.blog-card__cate -->
                                 <div class="blog-card__date"><span>02</span>Dec</div><!-- /.blog-card__date -->
@@ -1016,7 +1016,7 @@
                                     <li><i class="fas fa-user"></i>by <a href="blog-list-right.php">Martin</a></li>
                                     <li><i class="fas fa-comment"></i>05 Comments</li>
                                 </ul><!-- /.list-unstyled blog-card__meta -->
-                                <h3 class="blog-card__title"><a href="blog-details-right.php">Aenean Sollicitudin Ieo Nunc, Ornare This Blog.</a></h3><!-- /.blog-card__title -->
+                                <h3 class="blog-card__title"><a href="blog-details-right.php">Supporting a loved one from afar</a></h3><!-- /.blog-card__title -->
                                 <a href="blog-details-right.php" class="blog-card__link">
                                     <span class="blog-card__link__icon"><i class="icon-up-right-arrow"></i></span>
                                     Learn More

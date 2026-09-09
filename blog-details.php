@@ -33,14 +33,13 @@
                                 </ul><!-- /.list-unstyled blog-details__meta -->
                                 <h3 class="blog-details__title">Holiday Heart Health For Seniors And Strategies To Keep In Mind</h3><!-- /.blog-details__title -->
                                 <p class="blog-details__text">
-                                    Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et
-                                    dolore magna aliqua quis ipsum suspendisse ultrices gravida. All the Lorem Ipsum generators on the Internet tend
+                                    Learn how NurseDoc Connect helps families arrange practical healthcare support across Nigeria, including support for relatives living elsewhere.
                                     to repeat predefined chunks as necessary, making this the first true generator on the Internet.
                                 </p><!-- /.blog-details__text -->
                                 <p class="blog-details__text">
-                                    There are many variations of passages of lorem Ipsum available, but the majority have
+                                    Healthcare decisions can feel complex, but practical information can help families
                                     suffered it alteration in some form, by injected humour, or randomised words which don't
-                                    look evenslightly lorem believable. If you are going to use a passage of nor again.
+                                    understand their options and take the next step with confidence.
                                 </p><!-- /.blog-details__text -->
                                 <div class="row mb gutter-y-30">
                                     <div class="col-md-6">
@@ -56,13 +55,13 @@
                                 </div>
                                 <h4 class="blog-details__content__title">Increase Physical Activity</h4>
                                 <p class="blog-details__text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                                    Ask about call and video consultations, nurse support and home visits with licensed professionals.
                                     dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
                                     ex ea commodo consequat.
                                 </p><!-- /.blog-details__text -->
                                 <h4 class="blog-details__content__title">Integrate Stress-relieving Strategies</h4>
                                 <p class="blog-details__text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                                    A clear conversation about needs, location and preferences is a useful place to begin arranging care.
                                     dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
                                     ex ea commodo consequat.
                                 </p><!-- /.blog-details__text -->
@@ -76,7 +75,7 @@
                                 </p><!-- /.blog-details__text -->
                                 <p class="blog-details__text">
                                     Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-                                    eos qui ratione voluptatem sequi nesciunt. Neque porro estqui dolorem ipsum quia dolor sit amet, consectetur,
+                                    NurseDoc Connect offers clear guidance for patients and relatives arranging support across Nigeria.
                                     adipisci velit.
                                 </p><!-- /.blog-details__text -->
                                 <div class="blog-details__post-meta">

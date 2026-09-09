@@ -6,13 +6,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Testimonials Carousel || Careold || HTML Template For Senior Care & Medical</title>
+    <title>Family experiences | NurseDoc Connect Nigeria</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Careold is an amazing HTML designed template for all Senior Care & Medical, Elderly care, Orphanages, retirement home, elder living, palliative care, medical, healthcare, nursing home and any other caregiver or charity website." />
+    <meta name="description" content="Stories about arranging patient-first healthcare access with NurseDoc Connect across Nigeria." />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -59,7 +59,7 @@
                         </li>
                         <li class="topbar-one__info__item">
                             <i class="fas fa-envelope topbar-one__info__icon"></i>
-                            <a href="mailto:Support@gmail.com">Support@gmail.com</a>
+                            <a href="mailto:Support@gmail.com">support@nursedoc.com.ng</a>
                         </li>
                     </ul><!-- /.list-unstyled topbar-one__info -->
                     <div class="topbar-one__right">
@@ -99,7 +99,7 @@
                 <div class="main-header__inner">
                     <div class="main-header__logo">
                         <a href="index.php">
-                            <img src="assets/images/logo-dark.png" alt="Careold HTML" width="185">
+                            <img src="assets/images/logo-dark.png" alt="NurseDoc Connect" width="185">
                         </a>
                     </div><!-- /.main-header__logo -->
                     <nav class="main-header__nav main-menu">
@@ -367,7 +367,7 @@
                                     <i class="icon-phone"></i>
                                 </span>
                             </div>
-                            <a href="tel:+98301101204">+983 01 10 12 04</a>
+                            <a href="tel:+98301101204">Speak with NurseDoc Connect</a>
                         </div>
                         <a href="cart.php" class="main-header__cart">
                             <i class="fas fa-shopping-cart" aria-hidden="true"></i>
@@ -376,7 +376,7 @@
                         </a><!-- /.search-toggler -->
                         <div class="main-header__btn">
                             <a href="contact.php" class="careold-btn">
-                                <i>Get A Quote</i><span>Get A Quote</span>
+                                <i>Arrange care</i><span>Arrange care</span>
                             </a><!-- /.thm-btn main-header__btn -->
                         </div>
                     </div><!-- /.main-header__right -->
@@ -403,7 +403,7 @@
 
                     <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Our Testimonials<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                    <h3 class="sec-title__title bw-split-in-up">See Why 1,264 People Last <br>Year Choose Careold</h3><!-- /.sec-title__title -->
+                    <h3 class="sec-title__title bw-split-in-up">Families choose a clearer way to arrange care</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
             </div>
             <div class="testimonials-one__container container">
@@ -441,9 +441,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alen Martin
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    NurseDoc Connect helped our family understand the available care options and organise support with confidence.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -468,9 +468,9 @@
                                 <h3 class="testimonials-card__name">
                                     Hena Wiano
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    It was reassuring to have a clear conversation about care for our loved one in Nigeria.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -495,9 +495,9 @@
                                 <h3 class="testimonials-card__name">
                                     Keli Wiliam
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    The team helped us stay connected while arranging support from elsewhere.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -522,9 +522,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alice Genesis
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    We appreciated the warm, practical guidance throughout our care conversation.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -549,9 +549,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alen Martin
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    NurseDoc made it easier to understand what support our family could explore.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -576,9 +576,9 @@
                                 <h3 class="testimonials-card__name">
                                     Hena Wiano
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    The service gave our family a straightforward place to begin arranging care.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -603,9 +603,9 @@
                                 <h3 class="testimonials-card__name">
                                     Keli Wiliam
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    We felt listened to while discussing support for a loved one.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -630,9 +630,9 @@
                                 <h3 class="testimonials-card__name">
                                     Alice Genesis
                                 </h3><!-- /.testimonials-card__name -->
-                                <p class="testimonials-card__designation">Senior Care & Founder</p><!-- /.testimonials-card__designation -->
+                                <p class="testimonials-card__designation">NurseDoc Connect family</p><!-- /.testimonials-card__designation -->
                                 <div class="testimonials-card__content">
-                                    Creating comfortable happy moments for Seniors provided by dimo and his company sed do eiusmod tempor incididunt ut labore et dolor
+                                    Clear communication made the care planning process easier for our family.
                                 </div><!-- /.testimonials-card__content -->
                             </div><!-- /.testimonials-card__top -->
                             <div class="testimonials-card__bottom">
@@ -658,7 +658,7 @@
 
                     <div class="sec-title__tagline bw-split-in-up-fast"><span class="sec-title__tagline__border"></span>Our Testimonials<span class="sec-title__tagline__border"></span></div><!-- /.sec-title__tagline -->
 
-                    <h3 class="sec-title__title bw-split-in-up">See Why 1,264 People Last <br>Year Choose Careold</h3><!-- /.sec-title__title -->
+                    <h3 class="sec-title__title bw-split-in-up">Families choose a clearer way to arrange care</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
             </div>
             <div class="testimonials-two__container container">
@@ -700,7 +700,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Alen Martin
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-1.jpg" alt="Alen Martin">
                             </div><!-- /.testimonials-card-two__image -->
@@ -726,7 +726,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Hena Wiano
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-2.jpg" alt="Hena Wiano">
                             </div><!-- /.testimonials-card-two__image -->
@@ -752,7 +752,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Alen Martin
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-1.jpg" alt="Alen Martin">
                             </div><!-- /.testimonials-card-two__image -->
@@ -778,7 +778,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Hena Wiano
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-2.jpg" alt="Hena Wiano">
                             </div><!-- /.testimonials-card-two__image -->
@@ -804,7 +804,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Alen Martin
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-1.jpg" alt="Alen Martin">
                             </div><!-- /.testimonials-card-two__image -->
@@ -830,7 +830,7 @@
                             <h3 class="testimonials-card-two__name">
                                 Hena Wiano
                             </h3><!-- /.testimonials-card-two__name -->
-                            <p class="testimonials-card-two__designation">Senior Care & Founder</p><!-- /.testimonials-card-two__designation -->
+                            <p class="testimonials-card-two__designation">NurseDoc Connect family</p><!-- /.testimonials-card-two__designation -->
                             <div class="testimonials-card-two__image">
                                 <img src="assets/images/resources/testi-1-2.jpg" alt="Hena Wiano">
                             </div><!-- /.testimonials-card-two__image -->
@@ -849,10 +849,10 @@
                         <div class="col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="00ms">
                             <div class="footer-widget footer-widget--about">
                                 <a href="index.php" class="footer-widget__logo">
-                                    <img src="assets/images/logo-light.png" width="185" alt="Careold HTML Template">
+                                    <img src="assets/images/logo-light.png" width="185" alt="NurseDoc Connect">
                                 </a>
                                 <p class="footer-widget__text">
-                                    Over 20 years of experience<br> we’ll ensure you get the best<br> guidance Senior Care.
+                                    Patient-first healthcare access<br> beyond distance in Nigeria.<br> Support for every family.
                                 </p>
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-6 -->
@@ -878,7 +878,7 @@
                                         </div>
                                         <div class="footer-widget--post__content">
                                             <span class="footer-widget--post__date"><i class="far fa-calendar"></i>23 jun 2024</span>
-                                            <h3 class="footer-widget--post__title"><a href="blog-details-right.php">We Around Easily Blog News</a></h3>
+                                            <h3 class="footer-widget--post__title"><a href="blog-details-right.php">Practical guidance for arranging care</a></h3>
                                         </div>
                                     </li>
                                     <li class="footer-widget--post__item">
@@ -887,7 +887,7 @@
                                         </div>
                                         <div class="footer-widget--post__content">
                                             <span class="footer-widget--post__date"><i class="far fa-calendar"></i>23 jun 2024</span>
-                                            <h3 class="footer-widget--post__title"><a href="blog-details-right.php">In up So Discovery my Middleton</a></h3>
+                                            <h3 class="footer-widget--post__title"><a href="blog-details-right.php">Supporting a loved one from afar</a></h3>
                                         </div>
                                     </li>
                                 </ul><!-- /.list-unstyled -->
@@ -897,7 +897,7 @@
                             <div class="footer-widget footer-widget--mail">
                                 <h2 class="footer-widget__title">Newsletter</h2><!-- /.footer-widget__title -->
                                 <p class="footer-widget__text">
-                                    Mental health and wellness tips, <br>our latest guides, resources, <br>and more.
+                                    Practical healthcare updates<br> and family care guidance<br> from NurseDoc Connect.
                                 </p>
                                 <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
                                     <input type="text" name="EMAIL" placeholder="Email Address">
@@ -916,7 +916,7 @@
                 <div class="container">
                     <div class="main-footer__bottom__inner">
                         <p class="main-footer__copyright">
-                            &copy; Copyright <span class="dynamic-year"></span> by Careold HTML Template.
+                            &copy; <span class="dynamic-year"></span> NurseDoc Connect. Healthcare access across Nigeria.
                         </p>
                         <div class="main-footer__social">
 
@@ -962,11 +962,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@careold.com">needhelp@careold.com</a>
+                    <a href="mailto:needhelp@careold.com">support@nursedoc.com.ng</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:666-888-0000">Contact NurseDoc Connect</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__social">

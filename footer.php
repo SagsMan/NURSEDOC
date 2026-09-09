@@ -7,10 +7,10 @@
                  <div class="col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="00ms">
                      <div class="footer-widget footer-widget--about">
                          <a href="index.php" class="footer-widget__logo">
-                             <img src="assets/images/logo-light.png" width="185" alt="Careold HTML Template">
+                              <img src="assets/images/logo-light.png" width="185" alt="NurseDoc Connect">
                          </a>
                          <p class="footer-widget__text">
-                             Over 20 years of experience<br> we’ll ensure you get the best<br> guidance Senior Care.
+                              Patient-first healthcare access<br> beyond distance in Nigeria.<br> Care that keeps families connected.
                          </p>
                      </div><!-- /.footer-widget -->
                  </div><!-- /.col-md-6 -->
@@ -28,15 +28,15 @@
                  </div><!-- /.col-md-6 -->
                  <div class="col-md-6 col-xl-4 wow fadeInUp" data-wow-delay="200ms">
                      <div class="footer-widget footer-widget--post">
-                         <h2 class="footer-widget__title">Popular Post</h2><!-- /.footer-widget__title -->
+                          <h2 class="footer-widget__title">Health resources</h2><!-- /.footer-widget__title -->
                          <ul class="list-unstyled">
                              <li class="footer-widget--post__item">
                                  <div class="footer-widget--post__img">
                                      <img src="assets/images/resources/footer-post-1.jpg" alt="post">
                                  </div>
                                  <div class="footer-widget--post__content">
-                                     <span class="footer-widget--post__date"><i class="far fa-calendar"></i>09 September 2026</span>
-                                     <h3 class="footer-widget--post__title"><a href="blog-details-right.php">We Around Easily Blog News</a></h3>
+                                  <span class="footer-widget--post__date"><i class="far fa-calendar"></i>NurseDoc resource</span>
+                                  <h3 class="footer-widget--post__title"><a href="blog-details-right.php">Practical guidance for arranging care</a></h3>
                                  </div>
                              </li>
                              <li class="footer-widget--post__item">
@@ -44,8 +44,8 @@
                                      <img src="assets/images/resources/footer-post-2.jpg" alt="post">
                                  </div>
                                  <div class="footer-widget--post__content">
-                                     <span class="footer-widget--post__date"><i class="far fa-calendar"></i>09 September 2026</span>
-                                     <h3 class="footer-widget--post__title"><a href="blog-details-right.php">In up So Discovery my Middleton</a></h3>
+                                  <span class="footer-widget--post__date"><i class="far fa-calendar"></i>NurseDoc resource</span>
+                                  <h3 class="footer-widget--post__title"><a href="blog-details-right.php">Supporting a loved one from afar</a></h3>
                                  </div>
                              </li>
                          </ul><!-- /.list-unstyled -->
@@ -55,10 +55,10 @@
                      <div class="footer-widget footer-widget--mail">
                          <h2 class="footer-widget__title">Newsletter</h2><!-- /.footer-widget__title -->
                          <p class="footer-widget__text">
-                             Mental health and wellness tips, <br>our latest guides, resources, <br>and more.
+                              Receive practical healthcare updates<br> and family care guidance<br> from NurseDoc Connect.
                          </p>
                          <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
-                             <input type="text" name="EMAIL" placeholder="Email Address">
+                              <input type="text" name="EMAIL" placeholder="Your email address">
                              <button type="submit" class="icon-up-right-arrow">
                                  <span class="sr-only">submit</span><!-- /.sr-only -->
                              </button>
@@ -74,7 +74,7 @@
          <div class="container">
              <div class="main-footer__bottom__inner">
                  <p class="main-footer__copyright">
-                     &copy; Developed <span class="dynamic-year"></span> by SagsMan.
+                      &copy; <span class="dynamic-year"></span> NurseDoc Connect. Healthcare access across Nigeria.
                  </p>
                  <div class="main-footer__social">
 
@@ -174,8 +174,8 @@
  </div>
  <!-- /.search-popup -->
 
- <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
-     <span class="scroll-to-top__text">back top</span>
+  <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
+      <span class="scroll-to-top__text">back to top</span>
      <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
  </a>
 

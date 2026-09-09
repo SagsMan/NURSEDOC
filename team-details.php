@@ -24,11 +24,11 @@
                     </div><!-- /.col-lg-5 -->
                     <div class="col-lg-7">
                         <div class="team-details__content wow fadeInUp" data-wow-delay="200ms">
-                            <h3 class="team-details__title">Ovido Martian</h3><!-- /.team-details__title -->
-                            <div class="team-details__designation">Senior Doctor</div>
+                            <h3 class="team-details__title">NurseDoc Connect Care Team</h3><!-- /.team-details__title -->
+                            <div class="team-details__designation">Licensed healthcare professional</div>
                             <p class="team-details__text">
-                                Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                Quis ipsum suspendisse ultrices gravida.Risus commodo viverra accu
+                                Our licensed healthcare professionals help patients and families find practical care options across Nigeria.
+                                Our care team supports patients and families with clear, compassionate guidance across Nigeria.
                             </p><!-- /.team-details__text -->
                             <!-- /.team-details__designation -->
                             <ul class="list-unstyled team-details__list">
@@ -76,7 +76,7 @@
                             </div><!-- /.team-details__social -->
                             <div class="team-details__highlight">
                                 Do you have an emergency
-                                <p class="team-details__highlight__phone"><i class="fas fa-phone-square-alt"></i><a href="tel:08894309151">088 9430 9151</a></p>
+                                <p class="team-details__highlight__phone"><i class="fas fa-phone-square-alt"></i><a href="tel:08894309151">Contact NurseDoc Connect</a></p>
                             </div>
                             <!-- /.team-details__highlight -->
                         </div><!-- /.team-details__content -->

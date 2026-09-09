@@ -19,10 +19,10 @@
                 <div class="error-404__image wow fadeInUp" data-wow-duration="1500ms">
                     <img src="assets/images/shapes/error-404-shape.png" alt="404">
                 </div><!-- /.error-404__image -->
-                <h3 class="error-404__title">Nothing Was Found</h3><!-- /.error-404__title -->
+                <h3 class="error-404__title">This NurseDoc page is unavailable</h3><!-- /.error-404__title -->
                 <p class="error-404__text">The page you are looking for was never existed.</p><!-- /.error-404__text -->
                 <form action="#" class="error-404__search">
-                    <input type="text" id="error-search" placeholder="Search" />
+                    <input type="text" id="error-search" placeholder="Search NurseDoc" />
                     <button type="submit" class="error-404__search__btn" aria-label="search submit">
                         <span><i class="icon-search1"></i></span>
                     </button>
