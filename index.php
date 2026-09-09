@@ -827,6 +827,22 @@
                             </div><!-- /.team-card__image -->
                         </div><!-- /.team-card -->
                     </div><!-- /.item -->
+                    <div class="item">
+                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='100ms'>
+                            <div class="team-card__content">
+                                <h3 class="team-card__title">
+                                    <a href="medical-cofounder-details.php">Ashibogwu Ezinneamaka Maureen</a>
+                                </h3><!-- /.team-card__title -->
+                                <p class="team-card__designation">Medical Co-founder</p><!-- /.team-card__designation -->
+                                <div class="team-card__hover">
+                                    <span class="team-card__hover__btn"><i class="icon-plus"></i></span>
+                                </div><!-- /.team-card__hover -->
+                            </div><!-- /.team-card__content -->
+                            <div class="team-card__image">
+                                <img src="assets/images/team/ashibogwu-ezinneamaka-maureen.jpg" alt="Ashibogwu Ezinneamaka Maureen">
+                            </div><!-- /.team-card__image -->
+                        </div><!-- /.team-card -->
+                    </div><!-- /.item -->
 <div class="item">
 
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
