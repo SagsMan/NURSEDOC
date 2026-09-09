@@ -6,6 +6,17 @@ Repository: <https://github.com/SagsMan/NURSEDOC>
 
 Maintainer: **Sagiru Garba** (`@SagsMan`)
 
+## Official social media
+
+These are the official NurseDoc social links supplied for this project:
+
+- **X/Twitter:** [@nursedocLtd](https://x.com/nursedocLtd)
+- **TikTok:** [NurseDoc on TikTok](https://vt.tiktok.com/ZSxQ1h2Lf/)
+- **Facebook:** [NurseDoc Facebook post](https://www.facebook.com/100071176743297/posts/1081492240899991/?app=fbl)
+- **Instagram:** [NurseDoc Instagram highlight](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTMwMDczNTEyNTk0MTUx?story_media_id=3917859343448534098_22031609076&igsh=emV4MHJ6YnlhYWx0)
+
+The Facebook and Instagram URLs above point to a specific post/highlight, while the TikTok URL is a short share link. Replace them with permanent profile URLs when the official profile handles are confirmed.
+
 ## Current project status
 
 - **Application type:** Server-rendered PHP website
