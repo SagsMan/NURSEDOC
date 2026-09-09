@@ -811,7 +811,23 @@
 					}
 				}
 			}'>
-                    <div class="item">
+                                        <div class="item">
+                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
+                            <div class="team-card__content">
+                                <h3 class="team-card__title">
+                                    <a href="founder-details.php">Taofeek Akintunde Alimi</a>
+                                </h3><!-- /.team-card__title -->
+                                <p class="team-card__designation">Founder &amp; CEO</p><!-- /.team-card__designation -->
+                                <div class="team-card__hover">
+                                    <span class="team-card__hover__btn"><i class="icon-plus"></i></span>
+                                </div><!-- /.team-card__hover -->
+                            </div><!-- /.team-card__content -->
+                            <div class="team-card__image">
+                                <img src="assets/images/team/taofeek-akintunde-alimi.jpg" alt="Taofeek Akintunde Alimi">
+                            </div><!-- /.team-card__image -->
+                        </div><!-- /.team-card -->
+                    </div><!-- /.item -->
+<div class="item">
 
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
                             <div class="team-card__content">
