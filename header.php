@@ -99,7 +99,7 @@
                 <div class="main-header__inner">
                     <div class="main-header__logo">
                         <a href="index.php">
-                            <img src="assets/images/logo-light.png" alt="NurseDoc Connect" width="185">
+                            <img src="assets/images/nursedoc-connect-logo.png" alt="NurseDoc Connect" width="185">
                         </a>
                     </div><!-- /.main-header__logo -->
                     <nav class="main-header__nav main-menu">
