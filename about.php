@@ -472,6 +472,19 @@
                             </div><!-- /.team-card-two__content -->
                         </div><!-- /.team-card-two -->
                     </div><!-- /.item -->
+                    <div class="item">
+                        <div class="team-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='300ms'>
+                            <div class="team-card-two__image">
+                                <img src="assets/images/team/sagiru-garba.jpg" alt="Sagiru Garba">
+                            </div><!-- /.team-card-two__image -->
+                            <div class="team-card-two__content">
+                                <h3 class="team-card-two__title">
+                                    <a href="technical-lead-details.php">Sagiru Garba</a>
+                                </h3><!-- /.team-card-two__title -->
+                                <p class="team-card-two__designation">Technical Lead Co-founder</p><!-- /.team-card-two__designation -->
+                            </div><!-- /.team-card-two__content -->
+                        </div><!-- /.team-card-two -->
+                    </div><!-- /.item -->
 <div class="item">
 
                         <div class="team-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
