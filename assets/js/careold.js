@@ -1,6 +1,46 @@
 (function ($) {
   "use strict";
 
+  /*
+   * NurseDoc's official social links.
+   * Several legacy template pages still contain the original Careold
+   * placeholder URLs, so normalize them centrally for every page that
+   * loads this shared script.
+   */
+  const nurseDocSocialLinks = {
+    "https://facebook.com/":
+      "https://www.facebook.com/100071176743297/posts/1081492240899991/?app=fbl",
+    "https://twitter.com/": "https://x.com/nursedocLtd",
+    "https://instagram.com/":
+      "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTMwMDczNTEyNTk0MTUx?story_media_id=3917859343448534098_22031609076&igsh=emV4MHJ6YnlhYWx0",
+  };
+
+  $("a[href]").each(function () {
+    const href = $(this).attr("href");
+    if (nurseDocSocialLinks[href]) {
+      $(this).attr("href", nurseDocSocialLinks[href]);
+    }
+  });
+
+  // Do not leave unverified LinkedIn or WhatsApp template links active.
+  $('a[href="https://linkedin.com/"], a[href="https://whatsapp.com/"]').remove();
+
+  const nurseDocTikTokUrl = "https://vt.tiktok.com/ZSxQ1h2Lf/";
+  $(
+    ".topbar-one__social, .main-footer__social, .mobile-nav__social"
+  ).each(function () {
+    if (!$(this).find('a[href*="tiktok.com"]').length) {
+      $(this).append(
+        '<a href="' +
+          nurseDocTikTokUrl +
+          '" target="_blank" rel="noopener">' +
+          '<span aria-hidden="true">TikTok</span>' +
+          '<span class="sr-only">TikTok</span>' +
+          "</a>"
+      );
+    }
+  });
+
   /*-- Checkout Accoradin --*/
   if ($(".checkout-page__payment__title").length) {
     $(".checkout-page__payment__item")
