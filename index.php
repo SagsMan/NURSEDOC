@@ -843,6 +843,22 @@
                             </div><!-- /.team-card__image -->
                         </div><!-- /.team-card -->
                     </div><!-- /.item -->
+                    <div class="item">
+                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
+                            <div class="team-card__content">
+                                <h3 class="team-card__title">
+                                    <a href="priscilla-robeson-details.php">Priscilla Robeson</a>
+                                </h3><!-- /.team-card__title -->
+                                <p class="team-card__designation">Lead Health Educator &amp; Nursing Advisor</p><!-- /.team-card__designation -->
+                                <div class="team-card__hover">
+                                    <span class="team-card__hover__btn"><i class="icon-plus"></i></span>
+                                </div><!-- /.team-card__hover -->
+                            </div><!-- /.team-card__content -->
+                            <div class="team-card__image">
+                                <img src="assets/images/team/priscilla-robeson.jpg" alt="Priscilla Robeson">
+                            </div><!-- /.team-card__image -->
+                        </div><!-- /.team-card -->
+                    </div><!-- /.item -->
 <div class="item">
 
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
